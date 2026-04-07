@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\marti\\Datamatiker\\Undervisning\\CIDemo-Gruppe7\\Lommeregner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68B647EA-FBC0-4D1C-BEA9-876FCA1E4188}|TestProject1\\TestProject1.csproj|c:\\users\\marti\\datamatiker\\undervisning\\cidemo-gruppe7\\lommeregner\\testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68B647EA-FBC0-4D1C-BEA9-876FCA1E4188}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F84B464-D2A2-BADB-55FE-4525AFA1BDD6}|TestProject1\\TestProject1.csproj|c:\\users\\marti\\datamatiker\\undervisning\\cidemo-gruppe7\\lommeregner\\testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F84B464-D2A2-BADB-55FE-4525AFA1BDD6}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78161B43-0571-48D1-9435-A865CA5E6C0E}|Lommeregner\\Lommeregner.csproj|c:\\users\\marti\\datamatiker\\undervisning\\cidemo-gruppe7\\lommeregner\\lommeregner\\caculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78161B43-0571-48D1-9435-A865CA5E6C0E}|Lommeregner\\Lommeregner.csproj|solutionrelative:lommeregner\\caculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E78868E1-1ED7-D937-F4C5-01E671B23773}|Lommeregner\\Lommeregner.csproj|c:\\users\\marti\\datamatiker\\undervisning\\cidemo-gruppe7\\lommeregner\\lommeregner\\caculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78868E1-1ED7-D937-F4C5-01E671B23773}|Lommeregner\\Lommeregner.csproj|solutionrelative:lommeregner\\caculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78161B43-0571-48D1-9435-A865CA5E6C0E}|Lommeregner\\Lommeregner.csproj|c:\\users\\marti\\datamatiker\\undervisning\\cidemo-gruppe7\\lommeregner\\lommeregner\\icaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78161B43-0571-48D1-9435-A865CA5E6C0E}|Lommeregner\\Lommeregner.csproj|solutionrelative:lommeregner\\icaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E78868E1-1ED7-D937-F4C5-01E671B23773}|Lommeregner\\Lommeregner.csproj|c:\\users\\marti\\datamatiker\\undervisning\\cidemo-gruppe7\\lommeregner\\lommeregner\\icaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78868E1-1ED7-D937-F4C5-01E671B23773}|Lommeregner\\Lommeregner.csproj|solutionrelative:lommeregner\\icaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78161B43-0571-48D1-9435-A865CA5E6C0E}|Lommeregner\\Lommeregner.csproj|c:\\users\\marti\\datamatiker\\undervisning\\cidemo-gruppe7\\lommeregner\\lommeregner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78161B43-0571-48D1-9435-A865CA5E6C0E}|Lommeregner\\Lommeregner.csproj|solutionrelative:lommeregner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E78868E1-1ED7-D937-F4C5-01E671B23773}|Lommeregner\\Lommeregner.csproj|c:\\users\\marti\\datamatiker\\undervisning\\cidemo-gruppe7\\lommeregner\\lommeregner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78868E1-1ED7-D937-F4C5-01E671B23773}|Lommeregner\\Lommeregner.csproj|solutionrelative:lommeregner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,10 +35,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
@@ -63,8 +59,7 @@
               "RelativeToolTip": "Lommeregner\\Caculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T08:40:53.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T08:40:53.228Z"
             },
             {
               "$type": "Document",
@@ -76,8 +71,7 @@
               "RelativeToolTip": "Lommeregner\\ICaculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T08:39:28.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T08:39:28.858Z"
             },
             {
               "$type": "Document",
@@ -89,8 +83,11 @@
               "RelativeToolTip": "Lommeregner\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T08:38:25.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T08:38:25.992Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
