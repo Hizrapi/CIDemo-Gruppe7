@@ -29,5 +29,19 @@ namespace Lommeregner
             }
             return (double)a / b;
         }
+
+        public double Power(double a, double b)
+        {
+            return Math.Pow(a, b);
+        }
+
+        public double SquareRoot(double a)
+        {
+            if (a < 0)
+            {
+                throw new ArgumentException("Cannot take the square root of a negative number.");
+            }
+            return Math.Sqrt(a);
+        }
     }
 }

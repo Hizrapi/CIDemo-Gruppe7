@@ -29,5 +29,19 @@
             Assert.AreEqual(0.6666666666666666, calculator.Divide(2, 3));
             Assert.Throws<DivideByZeroException>(() => calculator.Divide(2, 0));
         }
+
+        [TestMethod]
+        public void TestPower()
+        {
+            Assert.AreEqual(8, calculator.Power(2, 3));
+        }
+
+        [TestMethod]
+        public void TestSquareRoot()
+        {
+            Assert.AreEqual(2, calculator.SquareRoot(4));
+            Assert.Throws<ArgumentException>(() => calculator.SquareRoot(-1));
+        }
+
     }
 }
